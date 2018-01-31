@@ -1,0 +1,3 @@
+<Directory "${SRVROOT}/htdocs">
+ AddEncoding gzip gz
+</Directory>
