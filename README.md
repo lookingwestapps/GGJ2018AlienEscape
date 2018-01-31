@@ -18,7 +18,7 @@ Help the aliens escape after they were defeated at Earth. These groovy aliens re
 ### Download and Play
 
 - [Play Online at http://alienescape.lookingwest.com](http://alienescape.lookingwest.com)
-- [Download Windows Version](https://ggj.s3.amazonaws.com/games/2018/01/14527/exec/sRivg/GGJ2018Windows64FINALENDOFJAMBUILD.zip)
+- [Download Windows Version](http://alienescape.lookingwest.com/GGJ2018AlienEscapeWINDOWS64_new.zip)
 
 ### Controls
 
